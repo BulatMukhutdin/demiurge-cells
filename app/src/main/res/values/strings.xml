@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Клеточное наполнение</string>
+    <string name="alive_title">Живая</string>
+    <string name="alive_message">и шевелится!</string>
+    <string name="dead_title">Мёртвая</string>
+    <string name="dead_message">или прикидывается</string>
+    <string name="life_title">Жизнь</string>
+    <string name="life_message">ку-ку!</string>
+    <string name="death_title">Смерть</string>
+    <string name="death_message">начало нового пути</string>
+    <string name="create">Сотворить</string>
+</resources>
